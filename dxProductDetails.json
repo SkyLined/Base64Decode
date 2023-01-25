@@ -1,0 +1,30 @@
+{
+  "a0sDependentOnProductNames": [
+    "mBase64"
+  ],
+  "a0sDebugAdditionalProductNames": [
+    "mConsole",
+    "mDebugOutput",
+    "mFileSystemItem",
+    "mNotProvided",
+    "mWindowsSDK"
+  ],
+  "a0sPythonApplicationNames": [
+    "Base64Decode"
+  ],
+  "asProductTypes": [
+    "Python application"
+  ],
+  "o0Repository": {
+    "sStructureVersion": "2021-07-02 11:16",
+    "sType": "GitHub",
+    "sbBranch": "master",
+    "sbRepositoryName": "Base64Decode",
+    "sbUserName": "SkyLined"
+  },
+  "oProductVersion": "2023-01-11 10:32",
+  "sProductAuthor": "SkyLined",
+  "sProductName": "Base64Decode",
+  "sStructureVersion": "2021-07-02 11:16",
+  "sb0ProductURL": "https://github.com/SkyLined/Base64Decode"
+}
