@@ -1,0 +1,3 @@
+[submodule "modules/mBase64"]
+	path = modules/mBase64
+	url = https://github.com/SkyLined/mBase64/
