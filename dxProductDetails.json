@@ -1,13 +1,13 @@
 {
-  "a0sDependentOnProductNames": [
-    "mBase64"
-  ],
   "a0sDebugAdditionalProductNames": [
     "mConsole",
     "mDebugOutput",
     "mFileSystemItem",
     "mNotProvided",
     "mWindowsSDK"
+  ],
+  "a0sDependentOnProductNames": [
+    "mBase64"
   ],
   "a0sPythonApplicationNames": [
     "Base64Decode"
@@ -22,7 +22,7 @@
     "sbRepositoryName": "Base64Decode",
     "sbUserName": "SkyLined"
   },
-  "oProductVersion": "2023-01-11 10:32",
+  "oProductVersion": "2024-02-28 18:54",
   "sProductAuthor": "SkyLined",
   "sProductName": "Base64Decode",
   "sStructureVersion": "2021-07-02 11:16",
